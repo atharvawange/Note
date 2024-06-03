@@ -1,6 +1,7 @@
 NoteIn-Website
 
 Problem Statement:
+
 Students often struggle to find and organize study notes, and teachers face challenges in distributing these notes efficiently. Traditional methods of sharing study materials, such as E-mail or physical handouts or WhatsApp, can be time-consuming and unreliable. This project addresses the need for a streamlined and accessible system for sharing study notes.
 
 The core idea of this project is to solve the problem of inefficient and fragmented access to study notes by creating a centralized platform where students and teachers can easily share and access educational materials.
