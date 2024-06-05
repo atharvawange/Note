@@ -51,13 +51,14 @@ Screenshots :
 
 Home Page :
 ![Screenshot_5-6-2024_115930_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/b213f1b8-1744-4c8b-a88b-ae868e560e9f)
-
+Feed Page :
 ![Screenshot_5-6-2024_14835_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/89b6f3e4-9906-488c-b06c-60ad9d0f4579)
-
+Post Page :
 ![Screenshot_5-6-2024_14846_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/59057909-5b05-4869-8e5f-afa5b8aef992)
-
+Notes Page :
 ![Screenshot_5-6-2024_14856_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/e4f020ed-6b50-4a79-a065-2999ec4495d9)
-
+CharBot Page :
+![Screenshot_5-6-2024_141054_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/94732894-94bc-4a98-ba4e-912f29dd0528)
 
 
 Tech Stack :
