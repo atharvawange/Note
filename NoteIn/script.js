@@ -54,6 +54,9 @@ chatForm.addEventListener('submit', function (event) {
 
 /****************************Post *************************/
 
+/****************************Post *************************/
+
+// script.js
 const titleInput = document.getElementById('title');
 const imageInput = document.getElementById('image');
 const previewContainer = document.getElementById('preview');
@@ -83,7 +86,6 @@ createPostcardButton.addEventListener('click', (e) => {
     postcardImage.src = image;
     postcardContainer.style.display = 'block';
 });
-
 
 /**************************** Notes *************************/
 
