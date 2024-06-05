@@ -339,6 +339,12 @@ html,body{
 }
 
 /***************************** Post Page ************************ */
+
+h1{
+    color: white;
+}
+
+
 #post-box{
     max-width: 400px;
     margin: 40px auto;
