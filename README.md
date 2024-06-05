@@ -49,6 +49,7 @@ By integrating these functionalities, the project offers a practical and scalabl
 
 Screenshots :
 
+![Screenshot_5-6-2024_115930_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/b213f1b8-1744-4c8b-a88b-ae868e560e9f)
 
 
 
