@@ -56,7 +56,7 @@ Post Page :
 Notes Page :
 ![Screenshot_5-6-2024_14856_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/e4f020ed-6b50-4a79-a065-2999ec4495d9)
 CharBot Page :
-![Screenshot_5-6-2024_141054_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/94732894-94bc-4a98-ba4e-912f29dd0528)
+![Screenshot_5-6-2024_161338_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/d48bdb46-1612-4236-b76d-2dadff10667b)
 
 
 Tech Stack :
