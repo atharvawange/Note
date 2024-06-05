@@ -42,6 +42,8 @@ By integrating these functionalities, the project offers a practical and scalabl
 Screenshots :
 
 
+
+
 Tech Stack :
 
 Azure(Hosting)
@@ -51,3 +53,14 @@ HTML
 CSS
 
 JavaScript
+
+
+Team Members:
+
+Atharva Wange : https://github.com/atharvawange
+
+Deepraj Patel : https://github.com/deeprajpatel143
+
+Preet Das : https://github.com/preetdas
+
+Manish Kumar Vishwakarma : https://github.com/manishvishwakar6
