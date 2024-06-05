@@ -1,4 +1,7 @@
+Project Name:
+
 NoteIn-Website
+
 
 Problem Statement:
 
@@ -11,6 +14,7 @@ Project Link - https://witty-bay-0f5e0ee00.5.azurestaticapps.net
 Project Demo Link -
 
 The core idea of this project is to solve the problem of inefficient and fragmented access to study notes by creating a centralized platform where students and teachers can easily share and access educational materials.
+
 
 I have developed a website using HTML, CSS, JavaScript, and Azure Portal that serves as a study note sharing platform. The website includes three main pages:
 
@@ -26,11 +30,14 @@ Chatbot Page:
 
 This page features a chatbot that allows users to search for any study-related topic. The chatbot can provide quick answers and direct users to relevant notes, enhancing the usability of the platform and supporting self-directed learning.
 
+
 Addressing the Need:
 
 This project addresses a clear need for an organized and efficient method of sharing study notes. By providing a centralized platform, it reduces the workload for teachers who no longer need to distribute notes through less efficient means. For students, it offers an easily accessible repository of study materials, helping them to study more effectively and collaboratively.
 
+
 Azure technologies used for Project :
+
 
 
 
@@ -38,6 +45,7 @@ Purpose and Functionality:
 
 The purpose of this project is to simplify the distribution and access of study notes. The basic functionalities of the platform—posting notes, sharing PDFs, and searching topics via a chatbot—are all directly mapped to the problem statement. These features ensure that the platform meets the needs of both students and teachers, providing a comprehensive solution to the problem of study note sharing.
 By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
+
 
 Screenshots :
 
