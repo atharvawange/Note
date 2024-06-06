@@ -11,7 +11,7 @@ This web based application has been developed for the accomplishment of Future R
 
 Project Link - https://witty-bay-0f5e0ee00.5.azurestaticapps.net
 
-Project Demo Link -
+Project Demo Link - https://youtu.be/glxPbK6A_ss
 
 The core idea of this project is to solve the problem of inefficient and fragmented access to study notes by creating a centralized platform where students and teachers can easily share and access educational materials.
 
