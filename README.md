@@ -39,9 +39,13 @@ This project addresses a clear need for an organized and efficient method of sha
 Azure technologies used for Project :
 
 Static Web App Services
+
 Virtual Network
+
 Web Applicatiom Firewall Policies (WAF)
+
 Language AI
+
 Azure Bot Service
 
 
