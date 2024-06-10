@@ -49,13 +49,13 @@ Language AI
 Azure Bot Service
 
 
-**Purpose and Functionality:**
+**Purpose and Functionality :**
 
 The purpose of this project is to simplify the distribution and access of study notes. The basic functionalities of the platform—posting notes, sharing PDFs, and searching topics via a chatbot—are all directly mapped to the problem statement. These features ensure that the platform meets the needs of both students and teachers, providing a comprehensive solution to the problem of study note sharing.
 By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
 
-**
-Project Demo Screenshots :**
+
+**Project Demo Screenshots :**
 
 Home Page :
 ![Screenshot_5-6-2024_115930_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/b213f1b8-1744-4c8b-a88b-ae868e560e9f)
