@@ -3,7 +3,7 @@
 NoteIn-Website
 
 
-Problem Statement:
+**Problem Statement:**
 
 Students often struggle to find and organize study notes, and teachers face challenges in distributing these notes efficiently. Traditional methods of sharing study materials, such as E-mail or physical handouts or WhatsApp, can be time-consuming and unreliable. This project addresses the need for a streamlined and accessible system for sharing study notes.
 
@@ -18,25 +18,25 @@ The core idea of this project is to solve the problem of inefficient and fragmen
 
 I have developed a website using HTML, CSS, JavaScript, and Azure Portal that serves as a study note sharing platform. The website includes three main pages:
 
-Post Page: 
+**Post Page: **
 
 This page allows all users to share notes in the form of text or images. This feature promotes collaborative learning and ensures that students can contribute their own resources.
 
-Notes Page: 
+**Notes Page: **
 
 Accessible only by authenticated users (teachers), this page enables teachers to upload and share notes in PDF format. This ensures that authoritative and accurate notes are easily accessible to all students, helping to standardize the quality of study materials.
 
-Chatbot Page: 
+**Chatbot Page: **
 
 This page features a chatbot that allows users to search for any study-related topic. The chatbot can provide quick answers and direct users to relevant notes, enhancing the usability of the platform and supporting self-directed learning.
 
 
-Addressing the Need:
+**Addressing the Need:**
 
 This project addresses a clear need for an organized and efficient method of sharing study notes. By providing a centralized platform, it reduces the workload for teachers who no longer need to distribute notes through less efficient means. For students, it offers an easily accessible repository of study materials, helping them to study more effectively and collaboratively.
 
 
-Azure technologies used for Project :
+**Azure technologies used for Project :**
 
 Static Web App Services
 
@@ -49,13 +49,13 @@ Language AI
 Azure Bot Service
 
 
-Purpose and Functionality:
+**Purpose and Functionality:**
 
 The purpose of this project is to simplify the distribution and access of study notes. The basic functionalities of the platform—posting notes, sharing PDFs, and searching topics via a chatbot—are all directly mapped to the problem statement. These features ensure that the platform meets the needs of both students and teachers, providing a comprehensive solution to the problem of study note sharing.
 By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
 
-
-Project Demo Screenshots :
+**
+Project Demo Screenshots :**
 
 Home Page :
 ![Screenshot_5-6-2024_115930_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/b213f1b8-1744-4c8b-a88b-ae868e560e9f)
@@ -70,7 +70,7 @@ Azure Services Used :
 
 
 
-Team Members' Contributions :
+**Team Members' Contributions :**
 
 Atharva Wange : Azure Services, Co-ordination & Leading
 
@@ -80,7 +80,7 @@ Deepraj Patel : Coding ( HTML, CSS, JS) & UI Design
 
 Manish Kumar Vishwakarma : Azure Services
 
-Team Members:
+**Team Members:**
 
 Atharva Wange : https://github.com/atharvawange
 
