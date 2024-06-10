@@ -55,7 +55,7 @@ The purpose of this project is to simplify the distribution and access of study 
 By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
 
 
-Screenshots :
+Project Demo Screenshots :
 
 Home Page :
 ![Screenshot_5-6-2024_115930_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/b213f1b8-1744-4c8b-a88b-ae868e560e9f)
@@ -70,7 +70,7 @@ Azure Services Used :
 
 
 
-Team Contribution :
+Team Members' Contributions :
 
 Atharva Wange : Azure Services, Co-ordination & Leading
 
