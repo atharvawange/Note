@@ -65,6 +65,8 @@ Notes Page :
 ![Screenshot_5-6-2024_14856_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/e4f020ed-6b50-4a79-a065-2999ec4495d9)
 CharBot Page :
 ![Screenshot_5-6-2024_161338_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/d48bdb46-1612-4236-b76d-2dadff10667b)
+Azure Services Used :
+![Screenshot_10-6-2024_154131_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/91189ee5-487f-4de1-acae-11b21c19443a)
 
 
 
