@@ -9,7 +9,7 @@ Students often struggle to find and organize study notes, and teachers face chal
 
 This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.
 
-Project Link - https://witty-bay-0f5e0ee00.5.azurestaticapps.net
+Project Demo Link - https://witty-bay-0f5e0ee00.5.azurestaticapps.net
 
 Project Demo Video Link - https://youtu.be/glxPbK6A_ss
 
@@ -67,16 +67,16 @@ CharBot Page :
 ![Screenshot_5-6-2024_161338_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/d48bdb46-1612-4236-b76d-2dadff10667b)
 
 
-Tech Stack :
 
-Azure(Hosting)
+Team Contribution :
 
-HTML
+Atharva Wange : Azure Services, Co-ordination & Leading
 
-CSS
+Preet Das : Coding ( HTML, CSS, JS) & Testing
 
-JavaScript
+Deepraj Patel : Coding ( HTML, CSS, JS) & UI Design
 
+Manish Kumar Vishwakarma : Azure Services
 
 Team Members:
 
