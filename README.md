@@ -55,23 +55,6 @@ The purpose of this project is to simplify the distribution and access of study 
 By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
 
 
-**Project Demo Screenshots :**
-
-**Home Page :**
-![Screenshot_5-6-2024_115930_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/b213f1b8-1744-4c8b-a88b-ae868e560e9f)
-**Post Page :**
-![Screenshot_5-6-2024_144157_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/24815ec7-72c0-4771-86d6-2bdb36353450)
-**Notes Page :**
-![Screenshot_5-6-2024_14856_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/e4f020ed-6b50-4a79-a065-2999ec4495d9)
-**CharBot Page :**
-![Screenshot_5-6-2024_161338_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/d48bdb46-1612-4236-b76d-2dadff10667b)
-**Azure Services Used :**
-![Screenshot_10-6-2024_154131_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/91189ee5-487f-4de1-acae-11b21c19443a)
-![Screenshot_10-6-2024_174842_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/2a0cb375-28f9-419f-8840-dc9f063dd335)
-
-
-
-
 **Team Members' Contributions :**
 
 Atharva Wange : Azure Services, Co-ordination & Leading
@@ -81,6 +64,25 @@ Preet Das : Coding ( HTML, CSS, JS) & Testing
 Deepraj Patel : Coding ( HTML, CSS, JS) & UI Design
 
 Manish Kumar Vishwakarma : Azure Services
+
+**Project Demo Screenshots :**
+**Azure Services Used :**
+![Screenshot_10-6-2024_154131_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/91189ee5-487f-4de1-acae-11b21c19443a)
+![Screenshot_10-6-2024_174842_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/2a0cb375-28f9-419f-8840-dc9f063dd335)
+**Home Page :**
+![Screenshot_5-6-2024_115930_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/b213f1b8-1744-4c8b-a88b-ae868e560e9f)
+**Post Page :**
+![Screenshot_5-6-2024_144157_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/24815ec7-72c0-4771-86d6-2bdb36353450)
+**Notes Page :**
+![Screenshot_5-6-2024_14856_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/e4f020ed-6b50-4a79-a065-2999ec4495d9)
+**CharBot Page :**
+![Screenshot_5-6-2024_161338_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/d48bdb46-1612-4236-b76d-2dadff10667b)
+
+
+
+
+
+
 
 **Team Members:**
 
