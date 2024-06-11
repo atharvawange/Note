@@ -1,6 +1,4 @@
-# Project Name:
-
-**NoteIn-Website**
+# **Project Name:** **NoteIn-Website**
 
 
 - **Problem Statement:**
