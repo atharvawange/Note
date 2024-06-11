@@ -39,7 +39,8 @@ This project addresses a clear need for an organized and efficient method of sha
 **Azure technologies used for Project :**
 
 + Static Web App Services
-    Virtual Network
+
++ Virtual Network
 
 + Web Applicatiom Firewall Policies (WAF)
 
