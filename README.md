@@ -55,7 +55,7 @@ The purpose of this project is to simplify the distribution and access of study 
 By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
 
 
-**Team Members' Contributions :**
+# Team Members' Contributions :
 
 Atharva Wange : Azure Services, Co-ordination & Leading
 
