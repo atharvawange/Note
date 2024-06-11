@@ -57,13 +57,13 @@ By integrating these functionalities, the project offers a practical and scalabl
 
 # Team Members' Contributions :
 
-Atharva Wange : Azure Services, Co-ordination & Leading
+1. Atharva Wange : Azure Services, Co-ordination & Leading
 
-Preet Das : Coding ( HTML, CSS, JS) & Testing
+2. Preet Das : Coding ( HTML, CSS, JS) & Testing
 
-Deepraj Patel : Coding ( HTML, CSS, JS) & UI Design
+3. Deepraj Patel : Coding ( HTML, CSS, JS) & UI Design
 
-Manish Kumar Vishwakarma : Azure Services
+4. Manish Kumar Vishwakarma : Azure Services
 
 
 # Azure Services Used :
@@ -89,10 +89,10 @@ Manish Kumar Vishwakarma : Azure Services
 
 **Team Members:**
 
-Atharva Wange : https://github.com/atharvawange
+1. Atharva Wange : https://github.com/atharvawange
 
-Deepraj Patel : https://github.com/deeprajpatel143
+2. Deepraj Patel : https://github.com/deeprajpatel143
 
-Preet Das : https://github.com/preetdas
+3. Preet Das : https://github.com/preetdas
 
-Manish Kumar Vishwakarma : https://github.com/manishvishwakar6
+4. Manish Kumar Vishwakarma : https://github.com/manishvishwakar6
