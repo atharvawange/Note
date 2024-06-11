@@ -38,15 +38,15 @@ This project addresses a clear need for an organized and efficient method of sha
 
 **Azure technologies used for Project :**
 
-* Static Web App Services
++ Static Web App Services
 
-* Virtual Network
++ Virtual Network
 
-* Web Applicatiom Firewall Policies (WAF)
++ Web Applicatiom Firewall Policies (WAF)
 
-* Language AI
++ Language AI
 
-* Azure Bot Service
++ Azure Bot Service
 
 
 **Purpose and Functionality :**
