@@ -9,7 +9,7 @@ Students often struggle to find and organize study notes, and teachers face chal
 
 This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.**
 
-**Project Demo URL** - https://witty-bay-0f5e0ee00.5.azurestaticapps.net
+**Project Demo URL** - [(https://witty-bay-0f5e0ee00.5.azurestaticapps.net)]
 
 **Project Demo Video URL** - https://youtu.be/glxPbK6A_ss
 
