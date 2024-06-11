@@ -9,9 +9,9 @@ Students often struggle to find and organize study notes, and teachers face chal
 
 This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.
 
-**Project Demo Link** - https://witty-bay-0f5e0ee00.5.azurestaticapps.net
+**Project Demo URL** - https://witty-bay-0f5e0ee00.5.azurestaticapps.net
 
-**Project Demo Video Link** - https://youtu.be/glxPbK6A_ss
+**Project Demo Video URL** - https://youtu.be/glxPbK6A_ss
 
 The core idea of this project is to solve the problem of inefficient and fragmented access to study notes by creating a centralized platform where students and teachers can easily share and access educational materials.
 
