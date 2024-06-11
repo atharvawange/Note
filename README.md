@@ -1,4 +1,4 @@
-# Project Name:
+**# Project Name:
 
 NoteIn-Website
 
@@ -7,7 +7,7 @@ NoteIn-Website
 
 Students often struggle to find and organize study notes, and teachers face challenges in distributing these notes efficiently. Traditional methods of sharing study materials, such as E-mail or physical handouts or WhatsApp, can be time-consuming and unreliable. This project addresses the need for a streamlined and accessible system for sharing study notes.
 
-This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.
+This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.**
 
 **Project Demo URL** - https://witty-bay-0f5e0ee00.5.azurestaticapps.net
 
