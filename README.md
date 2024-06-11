@@ -36,17 +36,17 @@ This page features a chatbot that allows users to search for any study-related t
 This project addresses a clear need for an organized and efficient method of sharing study notes. By providing a centralized platform, it reduces the workload for teachers who no longer need to distribute notes through less efficient means. For students, it offers an easily accessible repository of study materials, helping them to study more effectively and collaboratively.
 
 
-**Azure technologies used for Project :**
+- **Azure technologies used for Project :**
 
-+ Static Web App Services
+  + Static Web App Services
 
-+ Virtual Network
+  + Virtual Network
 
-+ Web Applicatiom Firewall Policies (WAF)
+  + Web Applicatiom Firewall Policies (WAF)
 
-+ Language AI
+  + Language AI
 
-+ Azure Bot Service
+  + Azure Bot Service
 
 
 **Purpose and Functionality :**
