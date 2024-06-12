@@ -28,9 +28,9 @@ This web based application has been developed for the accomplishment of Future R
 
   3. **Github Repository URL** : [https://github.com/atharvawange/NoteIn](https://github.com/atharvawange/NoteIn)
 
-  4. **Url of Project through Azure** : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)
+  4. **URL of Project through Azure** : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)
   > [!NOTE]
-  > Url of Project through Azure Has expired as the credit balance is now zero.
+  > URL of Project through Azure Has expired as the credit balance is now zero.
 
 # Description :
 
