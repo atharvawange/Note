@@ -1,6 +1,6 @@
 # **NoteIn-Website**
 
-This a Study Note Sharing Platform.
+This a static Study Note Sharing Platform.
 
 **Web Technologies used:** HTML, CSS, JS
 
@@ -30,7 +30,7 @@ This web based application has been developed for the accomplishment of Future R
 
   4. **URL of Project through Azure** : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)
   > [!NOTE]
-  > URL of Project through Azure Has expired as the credit balance is now zero.
+  > URL of Project through Azure Has expired as the Azure credit balance is now zero.
 
 # Description :
 
