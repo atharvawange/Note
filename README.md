@@ -113,3 +113,6 @@ By integrating these functionalities, the project offers a practical and scalabl
 3. **Deepraj Patel** : https://github.com/deeprajpatel143
 
 4. Deepraj Patel : https://github.com/deeprajpatel143 : https://github.com/manishvishwakar6
+
+# Disclaimer :
+This project is for educational purposes only and to learn how to use Microsoft Azure Portal so there is no Back-End developed because of which some functions are not working like on feed and notes page.
