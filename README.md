@@ -18,6 +18,7 @@ Students often struggle to find and organize study notes, and teachers face chal
 This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.**
 
 # URL links:-
+
   1. **Project Demo Url** : [atharvawange.github.io/NoteIn/](atharvawange.github.io/NoteIn/)
 
   2. **Project Demo Video Url** : [https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03](https://youtu.be/glxPbK6A_ss)
