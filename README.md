@@ -107,13 +107,13 @@ By integrating these functionalities, the project offers a practical and scalabl
   # 2. Post Page :
 ![Screenshot_5-6-2024_144157_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/24815ec7-72c0-4771-86d6-2bdb36353450)
 
-> [!TIP]
+> [!WARNING]
 > **Apologies for the inconvenience. The feature you're trying to access is currently unavailable. This is due to the fact that the necessary back-end infrastructure to support this feature is still under development. Additionally, we have not yet deployed the dynamic aspects of our website. We appreciate your understanding and patience as we work to improve our services.**
 
   # 3. Notes Page :
 ![Screenshot_5-6-2024_14856_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/e4f020ed-6b50-4a79-a065-2999ec4495d9)
 
-> [!TIP]
+> [!WARNING]
 > **Apologies for the inconvenience. The feature you're trying to access is currently unavailable. This is due to the fact that the necessary back-end infrastructure to support this feature is still under development. Additionally, we have not yet deployed the dynamic aspects of our website. We appreciate your understanding and patience as we work to improve our services.**
 
   # 4. CharBot Page :
