@@ -116,7 +116,7 @@ By integrating these functionalities, the project offers a practical and scalabl
 > [!WARNING]
 > **Apologies for the inconvenience. The feature you're trying to access is currently unavailable. This is due to the fact that the necessary back-end infrastructure to support this feature is still under development. Additionally, we have not yet deployed the dynamic aspects of our website. We appreciate your understanding and patience as we work to improve our services.**
 
-  # 4. CharBot Page :
+  # 4. ChaTBot Page :
 ![Screenshot_5-6-2024_161338_witty-bay-0f5e0ee00 5 azurestaticapps net](https://github.com/atharvawange/NoteIn/assets/152992765/d48bdb46-1612-4236-b76d-2dadff10667b)
 
 
