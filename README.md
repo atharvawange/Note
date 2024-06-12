@@ -16,7 +16,7 @@ This web based application has been developed for the accomplishment of Future R
 
   - Project Demo Video Url : [https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03](https://youtu.be/glxPbK6A_ss)
 
-  - Github Repository Link : https://github.com/MOHITSAHU5649/DENTAL-OASIS-2.git
+  - Github Repository Link : [https://github.com/atharvawange/NoteIn](https://github.com/atharvawange/NoteIn)
 
   - Url of Project through Azure : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)
 
