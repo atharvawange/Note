@@ -8,7 +8,7 @@ This a static Study Note Sharing Platform.
 
 ### **Note:** Bot is deployed on chatbot page
 
-**Industry :**
+### **Industry :**
 Ed-Tech
 
 # Project Title :
