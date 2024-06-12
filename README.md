@@ -23,35 +23,22 @@ The core idea of this project is to solve the problem of inefficient and fragmen
 
 I have developed a website using HTML, CSS, JavaScript, and Azure Portal that serves as a study note sharing platform. The website includes three main pages:
 
-  - **Post Page:**
+  1. **Post Page:**
 
 This page allows all users to share notes in the form of text or images. This feature promotes collaborative learning and ensures that students can contribute their own resources.
 
-  - **Notes Page:**
+  2. **Notes Page:**
 
 Accessible only by authenticated users (teachers), this page enables teachers to upload and share notes in PDF format. This ensures that authoritative and accurate notes are easily accessible to all students, helping to standardize the quality of study materials.
 
-  - **Chatbot Page:**
+  3. **Chatbot Page:**
 
 This page features a chatbot that allows users to search for any study-related topic. The chatbot can provide quick answers and direct users to relevant notes, enhancing the usability of the platform and supporting self-directed learning.
 
 
-- **Addressing the Need:**
+4. **Addressing the Need:**
 
 This project addresses a clear need for an organized and efficient method of sharing study notes. By providing a centralized platform, it reduces the workload for teachers who no longer need to distribute notes through less efficient means. For students, it offers an easily accessible repository of study materials, helping them to study more effectively and collaboratively.
-
-
-- **Azure technologies used for Project :**
-
-  + Static Web App Services
-
-  + Virtual Network
-
-  + Web Applicatiom Firewall Policies (WAF)
-
-  + Language AI
-
-  + Azure Bot Service
 
 
 - **Purpose and Functionality :**
@@ -59,16 +46,27 @@ This project addresses a clear need for an organized and efficient method of sha
 The purpose of this project is to simplify the distribution and access of study notes. The basic functionalities of the platform—posting notes, sharing PDFs, and searching topics via a chatbot—are all directly mapped to the problem statement. These features ensure that the platform meets the needs of both students and teachers, providing a comprehensive solution to the problem of study note sharing.
 By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
 
+# Azure technologies used for Project :
+
+  1. Static Web App Services
+
+  2. Virtual Network
+
+  3. Web Applicatiom Firewall Policies (WAF)
+
+  4. Language AI
+
+  5. Azure Bot Service
 
 # Team Members' Contributions :
 
-1. Atharva Wange : Azure Services, Co-ordination & Leading
+1. **Atharva Wange** : Azure Services, Co-ordination & Leading
 
-2. Preet Das : Coding ( HTML, CSS, JS) & Testing
+2. **Preet Das** : Coding ( HTML, CSS, JS) & Testing
 
-3. Deepraj Patel : Coding ( HTML, CSS, JS) & UI Design
+3. **Deepraj Patel** : Coding ( HTML, CSS, JS) & UI Design
 
-4. Manish Kumar Vishwakarma : Azure Services
+4. **Manish Kumar Vishwakarma** : Azure Services
 
 
 # Azure Services Used :
@@ -101,10 +99,10 @@ By integrating these functionalities, the project offers a practical and scalabl
 
 **Team Members:**
 
-1. Atharva Wange : https://github.com/atharvawange
+1. **Atharva Wange** : https://github.com/atharvawange
 
-2. Deepraj Patel : https://github.com/deeprajpatel143
+2. **Preet Das** : https://github.com/preetdas
 
-3. Preet Das : https://github.com/preetdas
+3. **Deepraj Patel** : https://github.com/deeprajpatel143
 
-4. Manish Kumar Vishwakarma : https://github.com/manishvishwakar6
+4. Deepraj Patel : https://github.com/deeprajpatel143 : https://github.com/manishvishwakar6
