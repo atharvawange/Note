@@ -1,5 +1,15 @@
 # **Project Name:** **NoteIn-Website**
 
+This a Study Note Sharing Platform.
+
+**Web Technologies used:** HTML, CSS, JS
+
+**IDE:** VS-Code
+
+**Note:** Bot is deployed on chatbot page
+
+**Industry :**
+Ed-Tech
 
 # Problem Statement :
 
@@ -7,7 +17,7 @@ Students often struggle to find and organize study notes, and teachers face chal
 
 This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.**
 
-# Url link:-
+# URL links:-
   1. **Project Demo Url** : [atharvawange.github.io/NoteIn/](atharvawange.github.io/NoteIn/)
 
   2. **Project Demo Video Url** : [https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03](https://youtu.be/glxPbK6A_ss)
@@ -46,7 +56,7 @@ This project addresses a clear need for an organized and efficient method of sha
 The purpose of this project is to simplify the distribution and access of study notes. The basic functionalities of the platform—posting notes, sharing PDFs, and searching topics via a chatbot—are all directly mapped to the problem statement. These features ensure that the platform meets the needs of both students and teachers, providing a comprehensive solution to the problem of study note sharing.
 By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
 
-# Azure technologies used for Project :
+# Azure Technologies Used For Project :
 
   1. Static Web App Services
 
