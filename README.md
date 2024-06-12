@@ -1,7 +1,7 @@
 # **Project Name:** **NoteIn-Website**
 
 
-- **Problem Statement:**
+# Problem Statement :
 
 Students often struggle to find and organize study notes, and teachers face challenges in distributing these notes efficiently. Traditional methods of sharing study materials, such as E-mail or physical handouts or WhatsApp, can be time-consuming and unreliable. This project addresses the need for a streamlined and accessible system for sharing study notes.
 
@@ -15,6 +15,8 @@ This web based application has been developed for the accomplishment of Future R
   - **Github Repository Link** : [https://github.com/atharvawange/NoteIn](https://github.com/atharvawange/NoteIn)
 
   - **Url of Project through Azure** : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)
+
+# Description :
 
 The core idea of this project is to solve the problem of inefficient and fragmented access to study notes by creating a centralized platform where students and teachers can easily share and access educational materials.
 
