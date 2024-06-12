@@ -86,7 +86,14 @@ By integrating these functionalities, the project offers a practical and scalabl
 ![Screenshot_10-6-2024_154131_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/91189ee5-487f-4de1-acae-11b21c19443a)
   # 1. Static Web App Service
 ![Screenshot_10-6-2024_174842_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/2a0cb375-28f9-419f-8840-dc9f063dd335)
+  # 2. Virtual Network
+  <img width="922" alt="Screenshot 2024-06-12 104532" src="https://github.com/atharvawange/NoteIn/assets/152992765/ecea62fc-c52c-4733-9a17-016112ff546a">
+  # 3. Web Application Firewall Policies
 
+  # 4. Language AI
+
+  # 5. Azure Bot Service
+  
 # Project Demo Screenshots :
 
   # 1. Home Page :
