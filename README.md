@@ -11,6 +11,15 @@ This web based application has been developed for the accomplishment of Future R
 
 - **Project Demo Video URL** - [https://youtu.be/glxPbK6A_ss](https://youtu.be/glxPbK6A_ss)
 
+# Url link:-
+  - Project Demo Url : 
+
+  - Project Demo Video Url : [https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03](https://youtu.be/glxPbK6A_ss)
+
+  - Github Repository Link : https://github.com/MOHITSAHU5649/DENTAL-OASIS-2.git
+
+  - Url of Project through Azure : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)
+
 The core idea of this project is to solve the problem of inefficient and fragmented access to study notes by creating a centralized platform where students and teachers can easily share and access educational materials.
 
 
