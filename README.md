@@ -38,46 +38,47 @@ The core idea of this project is to solve the problem of inefficient and fragmen
 
 I have developed a website using HTML, CSS, JavaScript, and Azure Portal that serves as a study note sharing platform. The website includes three main pages:
 
-**1. Post Page:**
+### **1. Post Page:**
 
-**This page allows all users to share notes in the form of text or images. This feature promotes collaborative learning and ensures that students can contribute their own resources.**
-**2. Notes Page:**
+This page allows all users to share notes in the form of text or images. This feature promotes collaborative learning and ensures that students can contribute their own resources.
 
-**Accessible only by authenticated users (teachers), this page enables teachers to upload and share notes in PDF format. This ensures that authoritative and accurate notes are easily accessible to all students, helping to standardize the quality of study materials.**
+### **2. Notes Page:**
 
-**3. Chatbot Page:**
+Accessible only by authenticated users (teachers), this page enables teachers to upload and share notes in PDF format. This ensures that authoritative and accurate notes are easily accessible to all students, helping to standardize the quality of study materials.
 
-**This page features a chatbot that allows users to search for any study-related topic. The chatbot can provide quick answers and direct users to relevant notes, enhancing the usability of the platform and supporting self-directed learning.**
+### **3. Chatbot Page:**
 
-**4. Addressing the Need:**
+This page features a chatbot that allows users to search for any study-related topic. The chatbot can provide quick answers and direct users to relevant notes, enhancing the usability of the platform and supporting self-directed learning.
 
-**This project addresses a clear need for an organized and efficient method of sharing study notes. By providing a centralized platform, it reduces the workload for teachers who no longer need to distribute notes through less efficient means. For students, it offers an easily accessible repository of study materials, helping them to study more effectively and collaboratively.**
+### **4. Addressing the Need:**
 
-**5. Purpose and Functionality :**
+This project addresses a clear need for an organized and efficient method of sharing study notes. By providing a centralized platform, it reduces the workload for teachers who no longer need to distribute notes through less efficient means. For students, it offers an easily accessible repository of study materials, helping them to study more effectively and collaboratively.
 
- ** The purpose of this project is to simplify the distribution and access of study notes. The basic functionalities of the platform posting notes, sharing PDFs, and searching topics via a chatbot are all directly mapped to the problem statement. These features ensure that the platform meets the needs of both students and teachers, providing a comprehensive solution to the problem of study note sharing By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.**
+### **5. Purpose and Functionality :**
+
+The purpose of this project is to simplify the distribution and access of study notes. The basic functionalities of the platform posting notes, sharing PDFs, and searching topics via a chatbot are all directly mapped to the problem statement. These features ensure that the platform meets the needs of both students and teachers, providing a comprehensive solution to the problem of study note sharing By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
 
 # Team Members' Contribution :
 
-1. **Atharva Wange** : Azure Services, Co-ordination & Leading
+### 1. **Atharva Wange** : Azure Services, Co-ordination & Leading
 
-2. **Preet Das** : Coding ( HTML, CSS, JS) & Testing
+### 2. **Preet Das** : Coding ( HTML, CSS, JS) & Testing
 
-3. **Deepraj Patel** : Coding ( HTML, CSS, JS) & UI Design
+### 3. **Deepraj Patel** : Coding ( HTML, CSS, JS) & UI Design
 
-4. **Manish Kumar Vishwakarma** : Azure Services
+### 4. **Manish Kumar Vishwakarma** : Azure Services
 
 # Azure Technologies Used For Project :
 
-  1. Static Web App Services
+### 1. Static Web App Services
 
-  2. Virtual Network
+### 2. Virtual Network
 
-  3. Web Applicatiom Firewall Policies (WAF)
+### 3. Web Applicatiom Firewall Policies (WAF)
 
-  4. Language AI
+### 4. Language AI
 
-  5. Azure AI Bot Service
+### 5. Azure AI Bot Service
 
 # Azure Services Used :
 ![Untitled315_20240612104423](https://github.com/atharvawange/NoteIn/assets/152992765/b34d680d-3f3e-46c3-b453-83e008716be8)
