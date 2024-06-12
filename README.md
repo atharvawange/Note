@@ -19,7 +19,7 @@
 **Students often struggle to find and organize study notes, and teachers face challenges in distributing these notes efficiently. Traditional methods of sharing study materials, such as E-mail or physical handouts or WhatsApp, can be time-consuming and unreliable. This project addresses the need for a streamlined and accessible system for sharing study notes.This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.**
 
 # URL links:-
- 1. **Project Demo URL** : ([atharvawange.github.io/NoteIn/](https://atharvawange.github.io/NoteIn/))
+ 1. **Project Demo URL** : [atharvawange.github.io/NoteIn/](https://atharvawange.github.io/NoteIn/)
 
  2. **Project Demo Video URL** : [https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03](https://youtu.be/glxPbK6A_ss)
 
