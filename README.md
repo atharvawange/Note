@@ -19,14 +19,13 @@
 **Students often struggle to find and organize study notes, and teachers face challenges in distributing these notes efficiently. Traditional methods of sharing study materials, such as E-mail or physical handouts or WhatsApp, can be time-consuming and unreliable. This project addresses the need for a streamlined and accessible system for sharing study notes.This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.**
 
 # URL links:-
+### 1. **Project Demo URL** : [atharvawange.github.io/NoteIn/](atharvawange.github.io/NoteIn/)
 
-  1. **Project Demo URL** : [atharvawange.github.io/NoteIn/](atharvawange.github.io/NoteIn/)
+### 2. **Project Demo Video URL** : [https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03](https://youtu.be/glxPbK6A_ss)
 
-  2. **Project Demo Video URL** : [https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03](https://youtu.be/glxPbK6A_ss)
+### 3. **Github Repository URL** : [https://github.com/atharvawange/NoteIn](https://github.com/atharvawange/NoteIn)
 
-  3. **Github Repository URL** : [https://github.com/atharvawange/NoteIn](https://github.com/atharvawange/NoteIn)
-
-  4. **URL of Project through Azure** : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)
+### 4. **URL of Project through Azure** : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)
   
   > [!NOTE]
   > URL of Project through Azure Has expired as the Azure credit balance is now zero.
