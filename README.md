@@ -88,12 +88,16 @@ By integrating these functionalities, the project offers a practical and scalabl
 ![Screenshot_10-6-2024_174842_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/2a0cb375-28f9-419f-8840-dc9f063dd335)
   # 2. Virtual Network
   <img width="922" alt="Screenshot 2024-06-12 104532" src="https://github.com/atharvawange/NoteIn/assets/152992765/ecea62fc-c52c-4733-9a17-016112ff546a">
+  
   # 3. Web Application Firewall Policies
+<img width="914" alt="Screenshot 2024-06-12 104906" src="https://github.com/atharvawange/NoteIn/assets/152992765/91a745da-ec49-47a2-83ae-6754ff3be4e5">
 
   # 4. Language AI
+<img width="913" alt="Screenshot 2024-06-12 104948" src="https://github.com/atharvawange/NoteIn/assets/152992765/37211106-9c2c-478b-9647-62c5ca4abe07">
 
   # 5. Azure Bot Service
-  
+  <img width="909" alt="Screenshot 2024-06-12 105054" src="https://github.com/atharvawange/NoteIn/assets/152992765/dc01154c-3e74-43a1-9dda-76e8046f8276">
+
 # Project Demo Screenshots :
 
   # 1. Home Page :
