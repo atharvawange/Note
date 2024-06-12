@@ -22,13 +22,15 @@ This web based application has been developed for the accomplishment of Future R
 
 # URL links:-
 
-  1. **Project Demo Url** : [atharvawange.github.io/NoteIn/](atharvawange.github.io/NoteIn/)
+  1. **Project Demo URL** : [atharvawange.github.io/NoteIn/](atharvawange.github.io/NoteIn/)
 
-  2. **Project Demo Video Url** : [https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03](https://youtu.be/glxPbK6A_ss)
+  2. **Project Demo Video URL** : [https://youtu.be/BkIzdY5PSZM?si=DEUzrWvttQtK7M03](https://youtu.be/glxPbK6A_ss)
 
   3. **Github Repository URL** : [https://github.com/atharvawange/NoteIn](https://github.com/atharvawange/NoteIn)
 
-  4. **Url of Project through Azure** : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)  Has expired as the credit balance is now zero.
+  4. **Url of Project through Azure** : [https://witty-bay-0f5e0ee00.5.azurestaticapps.net](https://witty-bay-0f5e0ee00.5.azurestaticapps.net)
+  > [!ALERT]
+  >  Has expired as the credit balance is now zero.
 
 # Description :
 
