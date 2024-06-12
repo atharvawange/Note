@@ -83,7 +83,8 @@ By integrating these functionalities, the project offers a practical and scalabl
   5. Azure Bot Service
 
 # Azure Services Used :
-![Screenshot_10-6-2024_154131_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/91189ee5-487f-4de1-acae-11b21c19443a)
+![Untitled315_20240612104423](https://github.com/atharvawange/NoteIn/assets/152992765/b34d680d-3f3e-46c3-b453-83e008716be8)
+
   # 1. Static Web App Service
 ![Screenshot_10-6-2024_174842_portal azure com](https://github.com/atharvawange/NoteIn/assets/152992765/2a0cb375-28f9-419f-8840-dc9f063dd335)
   # 2. Virtual Network
