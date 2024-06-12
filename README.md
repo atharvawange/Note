@@ -62,7 +62,7 @@ This project addresses a clear need for an organized and efficient method of sha
   The purpose of this project is to simplify the distribution and access of study notes. The basic functionalities of the platform—posting notes, sharing PDFs, and searching topics via a chatbot—are all directly mapped to the problem statement. These features ensure that the platform meets the needs of both students and teachers, providing a comprehensive solution to the problem of study note sharing.
 By integrating these functionalities, the project offers a practical and scalable solution to enhance the educational experience for both students and teachers.
 
-# Team Members' Contributions :
+# Team Members' Contribution :
 
 1. **Atharva Wange** : Azure Services, Co-ordination & Leading
 
@@ -123,7 +123,7 @@ By integrating these functionalities, the project offers a practical and scalabl
 
 
 
-**Team Members:**
+**Team Members' Github Link:**
 
 1. **Atharva Wange** : https://github.com/atharvawange
 
