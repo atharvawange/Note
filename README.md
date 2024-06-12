@@ -2,17 +2,17 @@
 
 This a static Study Note Sharing Platform.
 
-**Web Technologies used:** HTML, CSS, JS
+### **Web Technologies used:** HTML, CSS, JS
 
-**IDE:** VS-Code
+### **IDE:** VS-Code
 
-**Note:** Bot is deployed on chatbot page
+### **Note:** Bot is deployed on chatbot page
 
 **Industry :**
 Ed-Tech
 
 # Project Title :
-**Study Notes Sharing Platform**
+### **Study Notes Sharing Platform**
 
 # Problem Statement :
 
